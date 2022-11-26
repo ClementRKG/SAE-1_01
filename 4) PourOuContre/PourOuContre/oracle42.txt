@@ -1,0 +1,5 @@
+Candidat 1 : 20
+Candidat 2 : 35
+Candidat 3 : 23
+Candidat 4 : 35
+Il y a une égalité, il faut refaire le vote

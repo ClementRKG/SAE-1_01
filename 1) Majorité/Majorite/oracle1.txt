@@ -1,0 +1,5 @@
+Le candidat 1 a obtenue 25 voix
+Le candidat 2 a obtenue 30 voix
+Le candidat 3 a obtenue 30 voix
+Le candidat 4 a obtenue 28 voix
+Les candidats 3 2 sont à égalité, il faut refaire un vote entre eux.

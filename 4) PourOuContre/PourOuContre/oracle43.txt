@@ -1,0 +1,5 @@
+Candidat 1 : 40
+Candidat 2 : 23
+Candidat 3 : 19
+Candidat 4 : 31
+Le gagnant est le candidat 1.

@@ -1,0 +1,5 @@
+Le candidat 1 a obtenue 22 voix
+Le candidat 2 a obtenue 36 voix
+Le candidat 3 a obtenue 28 voix
+Le candidat 4 a obtenue 27 voix
+Le candidat 2 est elus avec le plus de voix.
