@@ -4,7 +4,7 @@ Bonjour/bonsoir,
 
 Chaque dossiers comporte le système de vote à son nom.
 A l'intérieur de chacun, vous trouverez :
-- L'éxecutable (main.cpp)
+- L'éxecutable (main.cpp // a.out)
 - Les fichiers d'entré (votantsXX.txt)
 - Les fichies oracles correspondants (oraclesXX.txt)
 
